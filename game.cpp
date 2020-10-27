@@ -117,7 +117,7 @@ int main()
 	head= add_snakes(8, head);
 	cout<<endl;
 	system("cls");
-	cout<<"Welcome_To_Snake_&_Ladders_Game: Developed by Sanchit-Verma"<<endl;
+	cout<<"Welcome_To_Snake_&_Ladders_Game: Developed by NABAJYOTI PANDIT"<<endl;
 	//itr1 and itr2 are respective pointers to maintain the current status of players that is player 1 and player 2.
 	node *itr1,*itr2;              
 	itr1= head;
